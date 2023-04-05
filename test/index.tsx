@@ -1,4 +1,4 @@
-import { useNavigate } from "react-router-dom-v5-compat";
+import { CompatRoute } from "react-router-dom-v5-compat";
 import React from 'react';
 
 const test = () => {
