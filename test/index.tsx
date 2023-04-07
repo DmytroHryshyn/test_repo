@@ -1,3 +1,4 @@
+import { useParams } from "react-router-dom-v5-compat";
 import React from 'react';
 console.log('test')
 const test = () => {
