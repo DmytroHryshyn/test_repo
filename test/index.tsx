@@ -1,3 +1,4 @@
+import { CompatRoute } from 'react-router-dom-v5-compat';
 import { CompatRoute } from 'react-router-dom';
 import { useParams } from 'react-router-dom';
 import React from 'react';
