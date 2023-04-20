@@ -1,4 +1,4 @@
-import { useNavigate } from 'react-router-dom-v5-compat';
+import { useLocation } from 'react-router-dom-v5-compat';
 import React from 'react';
 console.log('test');
 const test = () => {
