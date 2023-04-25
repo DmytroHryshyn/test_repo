@@ -7,32 +7,21 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+| :exclamation:  Please do not include any proprietary code. Provide a minimum meaningful sample so we can reproduce the issue.  |
+|-----------------------------------------|
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**Codemod name**
+Provide a name of the faulty codemod
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Codemod input**
+Provide a sample code that codemod was executed on
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Expected codemod ouput**
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+Provide expected codemod output
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Actual codemod output**
+Provide actual codemod output
 
 **Additional context**
 Add any other context about the problem here.
