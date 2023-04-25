@@ -1,14 +1,12 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Report faulty codemod
+about: " :exclamation:  Please do not include any proprietary code. Provide a minimum
+  meaningful sample so we can reproduce the issue. "
 title: ''
 labels: ''
 assignees: ''
 
 ---
-
-| :exclamation:  Please do not include any proprietary code. Provide a minimum meaningful sample so we can reproduce the issue.  |
-|-----------------------------------------|
 
 **Codemod name**
 Provide a name of the faulty codemod
