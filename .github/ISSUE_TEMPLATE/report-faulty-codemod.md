@@ -1,7 +1,7 @@
 ---
 name: Report faulty codemod
-about: " :exclamation:  Please do not include any proprietary code. Provide a minimum
-  meaningful sample so we can reproduce the issue. "
+about: 'Please do not include any proprietary code. Provide a minimum meaningful sample
+  so we can reproduce the issue. '
 title: ''
 labels: ''
 assignees: ''
